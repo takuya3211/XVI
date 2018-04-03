@@ -2,7 +2,7 @@ import os
 import glob
 import csv
 # rename MedicalRecordNumber to serial number using Taioh.txt
-# git_test
+# git_test2
 
 keyword = "./PatB/*.INI.XVI"
 #print(keyword)
